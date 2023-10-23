@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Es02.props" />
+</Project>

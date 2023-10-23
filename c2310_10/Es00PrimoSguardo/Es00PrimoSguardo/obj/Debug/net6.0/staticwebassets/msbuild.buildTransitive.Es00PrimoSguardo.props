@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Es00PrimoSguardo.props" />
+</Project>
